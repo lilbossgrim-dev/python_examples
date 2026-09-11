@@ -9,32 +9,32 @@ suma = 10 + 12
 print(suma)
 
 # resta
-print(f"Resta: {10 - 12}")
+print(f"Resta: 10 - 12 = {10 - 12}")
 resta = 10 - 12
 print(resta)
 
 # multiplicacion
-print(f"Multiplicacion: {10 * 12}")
+print(f"Multiplicacion: 10 * 12 = {10 * 12}")
 multiplicacion = 10 * 12
 print(multiplicacion)
 
 # division
-print(f"Division: {10 / 12}")
+print(f"Division: 10 / 12 = {10 / 12}")
 division = 10 / 12
 print(division)
 
 # division entera
-print(f"Division entera: {10 // 12}")
+print(f"Division entera: 10 // 12 = {10 // 12}")
 division_entera = 10 // 12
 print(division_entera)
 
 # modulo
-print(f"Modulo: {10 % 12}")
+print(f"Modulo: 10 % 12 = {10 % 12}")
 modulo = 10 % 12
 print(modulo)
 
 # exponente
-print(f"Exponente: {10 ** 12}")
+print(f"Exponente: 10 ** 12 = {10 ** 12}")
 exponente = 10 ** 12
 print(exponente)
 
