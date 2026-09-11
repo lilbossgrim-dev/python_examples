@@ -17,6 +17,8 @@ La idea es ir agregando más ejemplos de Python conforme avance el contenido.
 
 Principalmente para personas que están empezando con Python y quieren ver ejemplos simples de cómo funcionan algunas cosas del lenguaje.
 
+## No olvides seguirme y darle una estrellita si te esta gustando los ejemplos :)
+
 ## Uso
 
 Puedes clonar el repositorio y ejecutar los archivos `.py` directamente con Python.
