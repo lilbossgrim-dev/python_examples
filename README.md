@@ -1,5 +1,3 @@
-# python_examples
-
 # Python Examples 🐍
 
 Ejemplos sencillos de Python para practicar y entender los conceptos básicos del lenguaje.
